@@ -38,14 +38,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Razor.Design": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Proxies": {
               "target": "Package",
@@ -53,7 +48,7 @@
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[5.0.0-alpha.2, )"
             }
           },
           "imports": [
