@@ -1,0 +1,7 @@
+C:\Users\coltt\OneDrive\Desktop\Claires-Salon.Solution\HairSalon\obj\Debug\netcoreapp2.2\HairSalon.csproj.AssemblyReference.cache
+C:\Users\coltt\OneDrive\Desktop\Claires-Salon.Solution\HairSalon\obj\Debug\netcoreapp2.2\HairSalon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coltt\OneDrive\Desktop\Claires-Salon.Solution\HairSalon\obj\Debug\netcoreapp2.2\HairSalon.AssemblyInfoInputs.cache
+C:\Users\coltt\OneDrive\Desktop\Claires-Salon.Solution\HairSalon\obj\Debug\netcoreapp2.2\HairSalon.AssemblyInfo.cs
+C:\Users\coltt\OneDrive\Desktop\Claires-Salon.Solution\HairSalon\obj\Debug\netcoreapp2.2\HairSalon.csproj.CoreCompileInputs.cache
+C:\Users\coltt\OneDrive\Desktop\Claires-Salon.Solution\HairSalon\obj\Debug\netcoreapp2.2\HairSalon.RazorAssemblyInfo.cache
+C:\Users\coltt\OneDrive\Desktop\Claires-Salon.Solution\HairSalon\obj\Debug\netcoreapp2.2\HairSalon.RazorAssemblyInfo.cs
