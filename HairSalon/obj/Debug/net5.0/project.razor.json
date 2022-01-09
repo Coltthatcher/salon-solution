@@ -15629,13 +15629,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Clinets\\Delete.cshtml",
-      "TargetPath": "Views\\Clinets\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Clinets\\Details.cshtml",
-      "TargetPath": "Views\\Clinets\\Details.cshtml",
+      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Clients\\Create.cshtml",
+      "TargetPath": "Views\\Clients\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15649,23 +15644,23 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Clinets\\Edit.cshtml",
-      "TargetPath": "Views\\Clinets\\Edit.cshtml",
+      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Clients\\Edit.cshtml",
+      "TargetPath": "Views\\Clients\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Clinets\\Index.cshtml",
-      "TargetPath": "Views\\Clinets\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Clinets\\Create.cshtml",
-      "TargetPath": "Views\\Clinets\\Create.cshtml",
+      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Clients\\Index.cshtml",
+      "TargetPath": "Views\\Clients\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Stylists\\Edit.cshtml",
       "TargetPath": "Views\\Stylists\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Clients\\Delete.cshtml",
+      "TargetPath": "Views\\Clients\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
