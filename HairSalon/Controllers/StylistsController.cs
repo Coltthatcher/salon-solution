@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using ToDoList.Models;
+using HairSalon.Models;
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace HairSalon.Contollers
 {
-  public class StylistsController : Contoller
+  public class StylistsController : Controller
   {
     private readonly HairSalonContext _db;
     
