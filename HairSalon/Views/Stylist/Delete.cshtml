@@ -1,0 +1,9 @@
+@model HairSalon.Models.Stylist
+
+<h1>Delete this stylist from the schedule</h1>
+<hr/>
+@Html.DisplayNameFor(model => model.StylistName): @Html.DisplayFor(model => model.StylistName)
+@using (Html.BeginForm())
+{
+  <input type="submit" value="Delete" class="btn"/>
+}
