@@ -1,0 +1,16 @@
+@model HairSalon.Models.Client
+
+<h3> Edit appointment </h3>
+
+<h4> @Html.DisplayFor(model => model.ClientName)</h4>
+
+@using (Html.BeginForm())
+{
+  @Html.HiddenFor(Model => Model.ClientId)
+  @Html.LabelFor(model => model.ClientName)
+  @Html.EditorFor(model => model.ClientName)
+  @Html.LabelFor(model => model.Stylist)
+  @Html.DropDownList("StylistId")
+
+  <input type= "submit" value= "Edit" class="btn"/>
+}
