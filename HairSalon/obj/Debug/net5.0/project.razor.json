@@ -15619,23 +15619,38 @@
   "RootNamespace": "HairSalon",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Client\\Edit.cshtml",
+      "TargetPath": "Views\\Client\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Stylist\\Index.cshtml",
+      "TargetPath": "Views\\Stylist\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Stylists\\Index.cshtml",
-      "TargetPath": "Views\\Stylists\\Index.cshtml",
+      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Client\\Delete.cshtml",
+      "TargetPath": "Views\\Client\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Clients\\Create.cshtml",
-      "TargetPath": "Views\\Clients\\Create.cshtml",
+      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Stylist\\Create.cshtml",
+      "TargetPath": "Views\\Stylist\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Stylists\\Details.cshtml",
-      "TargetPath": "Views\\Stylists\\Details.cshtml",
+      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Client\\Details.cshtml",
+      "TargetPath": "Views\\Client\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Stylist\\Details.cshtml",
+      "TargetPath": "Views\\Stylist\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15644,33 +15659,23 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Clients\\Edit.cshtml",
-      "TargetPath": "Views\\Clients\\Edit.cshtml",
+      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Client\\Index.cshtml",
+      "TargetPath": "Views\\Client\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Clients\\Index.cshtml",
-      "TargetPath": "Views\\Clients\\Index.cshtml",
+      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Stylist\\Delete.cshtml",
+      "TargetPath": "Views\\Stylist\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Stylists\\Edit.cshtml",
-      "TargetPath": "Views\\Stylists\\Edit.cshtml",
+      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Client\\Create.cshtml",
+      "TargetPath": "Views\\Client\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Clients\\Delete.cshtml",
-      "TargetPath": "Views\\Clients\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Stylists\\Delete.cshtml",
-      "TargetPath": "Views\\Stylists\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Stylists\\Create.cshtml",
-      "TargetPath": "Views\\Stylists\\Create.cshtml",
+      "FilePath": "c:\\Users\\coltt\\OneDrive\\Desktop\\Claires-Salon.Solution\\HairSalon\\Views\\Stylist\\Edit.cshtml",
+      "TargetPath": "Views\\Stylist\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],
