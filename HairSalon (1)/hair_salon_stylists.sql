@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.0.27, for Win64 (x86_64)
 --
--- Host: localhost    Database: hair_salon
+-- Host: localhost    Database: colt_thatcher
 -- ------------------------------------------------------
 -- Server version	8.0.27
 
